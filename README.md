@@ -1,6 +1,6 @@
 # Examples of graphics in Matlab, GLE, and Python
 
-![](screen.png?raw=true)
+![](img/screen.png?raw=true)
 
 ### Matlab
 [2D and 3D plots + subplot](https://github.com/leandrobmarinho/graphics/blob/master/matlab/plots_2d_3d.m)\
