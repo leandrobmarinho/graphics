@@ -1,2 +1,4 @@
-# graphics
-Examples of graphs in Matlab, GLE, and Python
+# Examples of graphics in Matlab, GLE, and Python
+
+### Matlab
+
